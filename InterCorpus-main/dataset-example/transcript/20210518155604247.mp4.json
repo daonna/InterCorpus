@@ -1,0 +1,1479 @@
+{
+  "markResult": {
+    "paragraphs": [
+      {
+        "paragraphID": 1,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 0.006802801627700503,
+        "hdTimeEnd": 16.598835971589228,
+        "preAudioContent": "",
+        "content": "呃有没有觉得老是责备自己啊感觉自己感觉自己连累他人啊，感觉自己老是追究自己以前的错误啊，甚至负罪感很严重是吧，觉得自己犯了罪。",
+        "duration": 16.592033169961528,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 2,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 2.7211206510802013,
+        "hdTimeEnd": 4.585088297070139,
+        "preAudioContent": "",
+        "content": "嗯这个就是，嗯。",
+        "duration": 1.8639676459899377,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 3,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 4.8708059654335605,
+        "hdTimeEnd": 6.952463263509915,
+        "preAudioContent": "",
+        "content": "一直都这样一直都这样，嗯。",
+        "duration": 2.0816572980763546,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 4,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 8.748402893222847,
+        "hdTimeEnd": 11.020538636874816,
+        "preAudioContent": "",
+        "content": "对对对对对对对对。",
+        "duration": 2.272135743651969,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 5,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 12.530760598224326,
+        "hdTimeEnd": 15.251881249304528,
+        "preAudioContent": "",
+        "content": "哎就是很重，很严重，对对对。",
+        "duration": 2.721120651080202,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 6,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 15.503584909529447,
+        "hdTimeEnd": 15.857330594169873,
+        "preAudioContent": "",
+        "content": "嗯。",
+        "duration": 0.3537456846404261,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 7,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 16.76210321065404,
+        "hdTimeEnd": 27.97312029310446,
+        "preAudioContent": "",
+        "content": "对，好像嗯比如说就是我们两个嗯聊着聊着我觉得这句话对你说了，过分了重了语气重了一点我都会过分责备自己。",
+        "duration": 11.211017082450422,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 8,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 27.979923094732168,
+        "hdTimeEnd": 28.728231273779226,
+        "preAudioContent": "",
+        "content": "有没有幻觉啊？",
+        "duration": 0.7483081790470578,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 9,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 28.898301314471738,
+        "hdTimeEnd": 36.238524270760585,
+        "preAudioContent": "",
+        "content": "嗯有，我都会责备自己我就觉得干嘛要那样子要是这是个底盘，就是这个样子。",
+        "duration": 7.340222956288848,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 10,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 36.89159322701983,
+        "hdTimeEnd": 37.17050809375555,
+        "preAudioContent": "",
+        "content": "哦。",
+        "duration": 0.2789148667357182,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 11,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 37.29295852305416,
+        "hdTimeEnd": 39.99367076925126,
+        "preAudioContent": "",
+        "content": "嗯这个这个就#严重，嗯。",
+        "duration": 2.7007122461970994,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 12,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 38.55147682417874,
+        "hdTimeEnd": 39.578699869961525,
+        "preAudioContent": "",
+        "content": "觉得这个严重是吧？",
+        "duration": 1.0272230457827831,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 13,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 47.544780575998814,
+        "hdTimeEnd": 56.36801428712637,
+        "preAudioContent": "",
+        "content": "有没有这个这个消极观念，觉得活着没意义的，想到经常想到去死啊，消极观念啊，自杀啊这有没有？",
+        "duration": 8.823233711127557,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 14,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 55.29997443157739,
+        "hdTimeEnd": 55.88501537155964,
+        "preAudioContent": "",
+        "content": "也有。",
+        "duration": 0.5850409399822496,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 15,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 56.442845105031076,
+        "hdTimeEnd": 79.47032861479728,
+        "preAudioContent": "",
+        "content": "自杀倒没有就是消极观念还是有的，就是想着就是你刚才问你那个问题吧，它就就联想起来就觉得哎自己真的是嗯好像辛苦的一点意义都没有，就有这份#，但是这个死吧就是顺其自然哎呀这活着没意思死就死了吧，就是这这个样子。",
+        "duration": 23.027483509766206,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 16,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 59.293218987037584,
+        "hdTimeEnd": 59.82383751399823,
+        "preAudioContent": "",
+        "content": "有是吧？",
+        "duration": 0.5306185269606445,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 17,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 79.7288350766499,
+        "hdTimeEnd": 83.23908071654336,
+        "preAudioContent": "",
+        "content": "有没有，每天晚上都睡眠困难吗入睡？",
+        "duration": 3.510245639893455,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 18,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 83.25268631979877,
+        "hdTimeEnd": 86.84456557922462,
+        "preAudioContent": "",
+        "content": "嗯睡眠几乎每天晚上都困难，嗯。",
+        "duration": 3.591879259425852,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 19,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 87.89219702989051,
+        "hdTimeEnd": 89.39561618961231,
+        "preAudioContent": "",
+        "content": "梦多睡眠浅吗？",
+        "duration": 1.5034191597218012,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 20,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 88.67451921707607,
+        "hdTimeEnd": 88.96023688543949,
+        "preAudioContent": "",
+        "content": "嗯。",
+        "duration": 0.28571766836341794,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 21,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 89.52486942053862,
+        "hdTimeEnd": 89.96705152633916,
+        "preAudioContent": "",
+        "content": "嗯。",
+        "duration": 0.4421821058005406,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 22,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 92.014694816277,
+        "hdTimeEnd": 94.3480557745783,
+        "preAudioContent": "",
+        "content": "有没有早醒啊，醒来以后睡不着这种情况有没有？",
+        "duration": 2.3333609583012986,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 23,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 94.49091460876,
+        "hdTimeEnd": 100.98759016321398,
+        "preAudioContent": "",
+        "content": "早醒大概嗯那个也不算早醒的吧，嗯五六点钟也不算早醒。",
+        "duration": 6.4966755544539865,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 24,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 100.97398455995857,
+        "hdTimeEnd": 101.74270114388872,
+        "preAudioContent": "",
+        "content": "醒来可能睡着？",
+        "duration": 0.7687165839301571,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 25,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 102.18488324968926,
+        "hdTimeEnd": 115.16462875534184,
+        "preAudioContent": "",
+        "content": "醒了就睡不着了，夜里醒了夜里#，最近#三点多钟醒了大概要#多小时，有时最迟的大概两个小时后期呢大概能睡到什么7点钟这样。",
+        "duration": 12.979745505652573,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 26,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 115.49796603509915,
+        "hdTimeEnd": 118.21228388455165,
+        "preAudioContent": "",
+        "content": "对这个工作还是有积极性。",
+        "duration": 2.714317849452499,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 27,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 117.89255220804974,
+        "hdTimeEnd": 120.99462975028113,
+        "preAudioContent": "",
+        "content": "哎对对对，得自己去找工作啊。",
+        "duration": 3.102077542231399,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 28,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 121.28034741864458,
+        "hdTimeEnd": 122.02865559769162,
+        "preAudioContent": "",
+        "content": "#。",
+        "duration": 0.7483081790470436,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 29,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 122.03545839931932,
+        "hdTimeEnd": 135.30772437496302,
+        "preAudioContent": "",
+        "content": "嗯还是天天蛮希望自己能去工作，嗯不能嗯还依赖别人，反正不想不喜欢依赖别人嗯。",
+        "duration": 13.272265975643691,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 30,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 140.9132329161882,
+        "hdTimeEnd": 146.36907982160403,
+        "preAudioContent": "",
+        "content": "就特别会经常我就是跟你这么讲话，讲着讲着哎声音就绷绷着脑筋那种感觉。",
+        "duration": 5.455846905415825,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 31,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 146.65479748996745,
+        "hdTimeEnd": 148.12420264155074,
+        "preAudioContent": "",
+        "content": "哦，紧张是吧？",
+        "duration": 1.4694051515832882,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 32,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 148.13100544317848,
+        "hdTimeEnd": 154.1854988918319,
+        "preAudioContent": "",
+        "content": "嗯就现在给你讲话了，就觉得自己紧张，神经呢直接收缩了那么一点。",
+        "duration": 6.054493448653432,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 33,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 154.44400535368453,
+        "hdTimeEnd": 155.62089003527672,
+        "preAudioContent": "",
+        "content": "食欲有没有减退啊？",
+        "duration": 1.1768846815921847,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 34,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 155.87259369550165,
+        "hdTimeEnd": 158.51888352867715,
+        "preAudioContent": "",
+        "content": "食欲还好，食欲不减退。",
+        "duration": 2.6462898331755014,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 58,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 157.02906997221072,
+        "hdTimeEnd": 157.62091371382067,
+        "preAudioContent": "",
+        "content": "还好#。",
+        "duration": 0.5918437416099493,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 35,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 158.62092555309263,
+        "hdTimeEnd": 159.5256981695768,
+        "preAudioContent": "",
+        "content": "体重有没有减轻啊？",
+        "duration": 0.9047726164841663,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 36,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 159.81821863956793,
+        "hdTimeEnd": 162.98152139644864,
+        "preAudioContent": "",
+        "content": "是体重好像就是今年都是差不多。",
+        "duration": 3.163302756880711,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 37,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 163.053658985046,
+        "hdTimeEnd": 163.5536655772944,
+        "preAudioContent": "",
+        "content": "差不多是吧？",
+        "duration": 0.5000065922483827,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 38,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 163.74303699222122,
+        "hdTimeEnd": 164.20216489436424,
+        "preAudioContent": "",
+        "content": "嗯。",
+        "duration": 0.4591279021430239,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 39,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 164.7991365434403,
+        "hdTimeEnd": 168.0900890233296,
+        "preAudioContent": "",
+        "content": "嗯你全身肌肉头痛酸痛乏力吗？",
+        "duration": 3.2909524798892846,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 40,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 168.42343858877246,
+        "hdTimeEnd": 171.4416602001626,
+        "preAudioContent": "",
+        "content": "那个少，嗯，也有少。",
+        "duration": 3.018221611390146,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 41,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 168.8961720941709,
+        "hdTimeEnd": 169.5143620627689,
+        "preAudioContent": "",
+        "content": "#。",
+        "duration": 0.6181899685979886,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 42,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 174.22047879723158,
+        "hdTimeEnd": 177.02051571382245,
+        "preAudioContent": "",
+        "content": "有没有性欲减退啊，月经紊乱，可有？",
+        "duration": 2.8000369165908694,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 43,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 177.15835946075546,
+        "hdTimeEnd": 179.61986383955335,
+        "preAudioContent": "",
+        "content": "就干净了，有一年这样。",
+        "duration": 2.4615043787978834,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 44,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 180.33570501893965,
+        "hdTimeEnd": 181.03571424808734,
+        "preAudioContent": "",
+        "content": "没有了是吧？",
+        "duration": 0.700009229147696,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 45,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 181.0387505097093,
+        "hdTimeEnd": 181.45693784140795,
+        "preAudioContent": "",
+        "content": "嗯。",
+        "duration": 0.41818733169864686,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 46,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 190.84649243404385,
+        "hdTimeEnd": 193.8237734749896,
+        "preAudioContent": "",
+        "content": "有没有经常觉得自己生病啦，反复考虑健康问题？",
+        "duration": 2.9772810409457406,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 47,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 194.42902623837682,
+        "hdTimeEnd": 195.59954262593982,
+        "preAudioContent": "",
+        "content": "嗯，这个也是。",
+        "duration": 1.1705163875629978,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 48,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 194.65711187676487,
+        "hdTimeEnd": 195.1480274400633,
+        "preAudioContent": "",
+        "content": "#。",
+        "duration": 0.49091556329841524,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 49,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 195.60863365488981,
+        "hdTimeEnd": 196.32682494193745,
+        "preAudioContent": "",
+        "content": "也是，是吧？",
+        "duration": 0.718191287047631,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 50,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 196.04500304448837,
+        "hdTimeEnd": 198.8359489321293,
+        "preAudioContent": "",
+        "content": "嗯这个好像能够得上中度了。",
+        "duration": 2.7909458876409303,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 51,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 197.11774446058487,
+        "hdTimeEnd": 197.39956635803395,
+        "preAudioContent": "",
+        "content": "好。",
+        "duration": 0.2818218974490776,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 52,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 199.32836056402707,
+        "hdTimeEnd": 199.83294361091998,
+        "preAudioContent": "",
+        "content": "中度是吧？",
+        "duration": 0.5045830468929182,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 53,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 199.83294361091998,
+        "hdTimeEnd": 219.74835177868303,
+        "preAudioContent": "",
+        "content": "嗯，总是想着自己心里总是想着这里哪里好像不是这里不舒服就那里不舒服，而且#就是这个位置啊，这个这个位置，这个位置它从去年9月份，去年9月份它疼，疼了。",
+        "duration": 19.915408167763047,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 54,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 210.9027806103619,
+        "hdTimeEnd": 211.23914868151078,
+        "preAudioContent": "",
+        "content": "嗯。",
+        "duration": 0.33636807114888256,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 55,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 220.45362361643586,
+        "hdTimeEnd": 221.36050016444975,
+        "preAudioContent": "",
+        "content": "等一下等一下。",
+        "duration": 0.9068765480138836,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 56,
+        "roleID": 1,
+        "roleName": "病人",
+        "hdTimeStart": 222.30286903328556,
+        "hdTimeEnd": 229.866667,
+        "preAudioContent": "",
+        "content": "它疼了疼了过后啊就做了肝胆脾胰，做出来也正常，正常以后啊医生就叫我去做妇科。",
+        "duration": 7.563797966714446,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      },
+      {
+        "paragraphID": 57,
+        "roleID": 2,
+        "roleName": "医生",
+        "hdTimeStart": 226.3393477674115,
+        "hdTimeEnd": 226.79389921491003,
+        "preAudioContent": "",
+        "content": "正常。",
+        "duration": 0.45455144749851684,
+        "formResult": {
+          "isEffective": "1"
+        },
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        },
+        "isModifyed": false,
+        "generateMode": 1
+      }
+    ],
+    "roles": [
+      {
+        "roleID": 1,
+        "roleName": "病人",
+        "formResult": {},
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        }
+      },
+      {
+        "roleID": 2,
+        "roleName": "医生",
+        "formResult": {},
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        }
+      },
+      {
+        "roleID": 3,
+        "roleName": "病人家属",
+        "formResult": {},
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        }
+      },
+      {
+        "roleID": 4,
+        "roleName": "无人说话部分",
+        "formResult": {},
+        "qualityResult": {
+          "errorType": {
+            "contentError": [],
+            "attributeError": [],
+            "basicError": [],
+            "otherError": ""
+          },
+          "qualityStatus": ""
+        }
+      }
+    ]
+  },
+  "info": {
+    "Duration": 229.866667,
+    "SamplingRate": 24000,
+    "BitDepth": 16,
+    "Channels": 1
+  },
+  "workload": {
+    "tagCount": 229.866667,
+    "qualifiedCount": 0,
+    "unqualifiedCount": 0,
+    "tagCount1": 58,
+    "qualifiedCount1": 0,
+    "unqualifiedCount1": 0,
+    "tagCount2": 207.7466800975322,
+    "qualifiedCount2": 0,
+    "unqualifiedCount2": 0,
+    "tagCount3": 0,
+    "qualifiedCount3": 0,
+    "unqualifiedCount3": 0,
+    "tagCount4": 207.7466800975322,
+    "qualifiedCount4": 0,
+    "unqualifiedCount4": 0
+  }
+}
