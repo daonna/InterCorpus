@@ -1,6 +1,6 @@
 # InterCorpus
 
-We released a high-quality dataset of Chinese clinical interview transcripts for depression and anxiety disorder, called InterCorpus. This data was transcribed from the audio of the interview by a professional data annotation company in China. 
+This is a high-quality dataset of Chinese clinical interview transcripts for depression and anxiety disorder, called InterCorpus.
 
 ## Access to InterCorpus
 
